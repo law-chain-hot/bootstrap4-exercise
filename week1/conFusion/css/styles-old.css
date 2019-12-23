@@ -1,0 +1,96 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 300px;
+}
+
+.footer {
+    background-color: rgba(136, 109, 167, 0.521);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #9575cd;
+    color: floralwhite;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: #513da8;
+}
+
+
+/* for week2 assignment */
+
+.feedback {
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    margin: 0px 0px;
+}
+
+.costom-feedback {
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: lavender;
+    border-style: solid;
+    padding: 0px 0px;
+}
+
+.btn-table {
+    background-color: goldenrod;
+    color: black;
+    padding: auto 20px;
+    /* margin: 50px 0px; */
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel {
+    background: #512da8;
+    top: 20px;
+}
+
+.carousel-item {
+    height: 300px;
+    top: 20px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    /* left: 50%; */
+    z-index: 1;
+}
