@@ -95,7 +95,7 @@ $shallow-color:floralwhite;
 .modal {
     .modal-header {
         background-color: $background-dark;
-        color:$shallow-color;
+        color:$shallow-colorlor;
         button {
             color:$shallow-color;
         }
@@ -107,5 +107,5 @@ $shallow-color:floralwhite;
 
     .modal-footer {
         background-color: $background-light;
-    } 
+    }
 }
